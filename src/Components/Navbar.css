@@ -1,0 +1,13 @@
+@media (max-width: 767px) {
+    .navbar {
+      margin-bottom: 20px; /* Adjust the value as needed */
+    }
+    .navbar-nav {
+      flex-direction: row;
+      flex-wrap: wrap;
+    }
+    .nav-item {
+      flex: 1 1 50%; /* Adjust the width of each item as needed */
+    }
+  }
+  
